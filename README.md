@@ -35,24 +35,23 @@ To get started with this project, you need the following installed on your local
 
 Node.js: Make sure you have Node.js installed. You can download it here.
 npm or yarn: To install the dependencies and run the app.
+
+
 Installation
 Clone the repository:
 
-bash
-Copy
+
 git clone https://github.com/your-username/quizapp.git
 cd quizapp
 Install dependencies:
 
 If you’re using npm:
 
-bash
-Copy
+
 npm install
 Or if you prefer yarn:
 
-bash
-Copy
+
 yarn install
 Start the development server:
 
